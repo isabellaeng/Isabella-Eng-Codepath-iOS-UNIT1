@@ -1,4 +1,4 @@
-# Isabella-Eng-Codepath-iOS-UNIT1 & UNIT2
+# Isabella-Eng-iOS movie reivew app
 # Flix
 
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
@@ -20,8 +20,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 <img src="https://imgur.com/4QGP0Wb.gif" width=250><br>
 
-### Notes
-A challenge I ran into quite often was encountering thread1 messages, and usually, theres nothing wrong with the code, it's just annoying to have to cut and paste the code over and over again.
+
 
 ---
 
@@ -40,5 +39,3 @@ A challenge I ran into quite often was encountering thread1 messages, and usuall
 ### App Walkthrough GIF
 <img src="https://imgur.com/ZGyGdLj.gif" width=250><br>
 
-### Notes
-The challange I faced was installing pods. After the Podfile was completed, the rest of the assignment was handleable.
